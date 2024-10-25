@@ -2,7 +2,7 @@
 
 ## About the bot: 
 
-The bot has **122** Bible translations in **50** languages
+The bot has **93** Bible translations in **36** languages
 
 ## **List of commands:**
 
