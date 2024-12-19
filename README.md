@@ -22,9 +22,9 @@ The bot has **93** Bible translations in **36** languages
 
 `/contact` - includes contact to the bot author
 
-`/random [hour]` - displays random verse from the Bible
+`/random` - displays random verse from the Bible
 
-`/dailyverse [book] [chapter] [start_verse] [end_verse] [hour]` - displays the verse of the day from the Bible
+`/dailyverse [hour]` - displays the verse of the day from the Bible
 
 `/removeuserdata` - deletes user data in the database
 
