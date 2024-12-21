@@ -28,6 +28,8 @@ The bot has **93** Bible translations in **36** languages
 
 `/removeuserdata` - deletes user data in the database
 
+`/settimezone [timezone]` - sets the time zone
+
 ## **Website:** 
 
 * https://bible-bot.netlify.app/
